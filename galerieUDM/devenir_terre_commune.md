@@ -1,3 +1,3 @@
 # **Devenirs partagés. Pratiques de l'IA**
 
-![description exposition](description_exposition.jpg)
+![détails exposition](description_exposition.jpg)
