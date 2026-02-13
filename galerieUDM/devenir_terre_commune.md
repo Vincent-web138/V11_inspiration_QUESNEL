@@ -110,6 +110,8 @@ Les images donnaient une impression de calme et de ralentissement. Ensuite, voir
 
 Même si je ne pouvais pas vérifier scientifiquement l’impact réel sur mon cerveau, l’expérience fonctionnait sur le plan psychologique et m’a amené à réfléchir au rôle de la technologie dans notre perception.
 
+[Expérience vécu](https://youtube.com/shorts/wPp_IcVFW3w)
+
 ---
 
 ## Ce qui m’a plu
