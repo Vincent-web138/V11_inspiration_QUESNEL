@@ -9,7 +9,7 @@
 
 L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre l’intelligence artificielle, la création artistique et le vivant. Les oeuvres présentées interrogent notre rapport aux technologies et la manière dont elles influencent notre perception, nos émotions et notre compréhension du monde.
 
-![Exposition](photo/description_exposition.jpg)
+<img scr="description_exposition.jpg" alt="photo exposition" width="500">
 
 ![Lieu](photo/lieu_exposition.jpg)
 
