@@ -98,7 +98,7 @@ Ces éléments sont essentiels pour préserver le caractère immersif de l’oeu
 
 ![Composante 2](photo/projecteur_image.jpg)
 
-![Composante 3](photo/projecteur_lumiere.jpg)
+![Composante 3](photo/projecteurs_lumiere.jpg)
 
 ---
 
