@@ -19,6 +19,7 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 
 ## Terre commune  
 **Artiste :** Marion Schneider
+
 **Année de réalisation :** 2025
 
 <img src="photo/presentation_complete_oeuvre.jpg" alt="présentation oeuvre" width="500">
