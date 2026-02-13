@@ -12,6 +12,9 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 ![Exposition](photo/description_exposition.jpg)
 
 
+
+
+
 ![Lieu](lieu_exposition.jpg)
 
 ---
