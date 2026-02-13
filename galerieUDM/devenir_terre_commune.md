@@ -21,7 +21,7 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 **Artiste :** Marion Schneider
 **Année de réalisation :** 2025
 
-<img src="photo/presentation_complete_oeuvre.jpg" alt="présentation oeuvre" width="500">
+<img src="photo/presentation_complete_oeuvre.jpg" alt="présentation oeuvre" width="500" align="left">
 
 <img src="photo/description_oeuvre.jpg" alt="description oeuvre" width="500" align="right">
 
