@@ -11,7 +11,7 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 
 <img src="photo/description_exposition.jpg" alt="photo exposition" width="500">
 
-![Lieu](photo/lieu_exposition.jpg)
+<img src="photo/lieu_exposition.jpg" alt="lieu exposition" width="500">
 
 ---
 
