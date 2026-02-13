@@ -11,12 +11,16 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 
 ![Exposition](photo/description_exposition.jpg)
 
+![Lieu](lieu_exposition.jpg)
+
 ---
 
 # Œuvre choisie
 
 ## Terre commune  
-**Artiste :** Marion Schneider  
+**Artiste :** Marion Schneider
+
+![présentation oeuvre](presentation_complete_oeuvre.jpg)
 
 ---
 
