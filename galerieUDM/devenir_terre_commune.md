@@ -9,9 +9,9 @@
 
 L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre l’intelligence artificielle, la création artistique et le vivant. Les oeuvres présentées interrogent notre rapport aux technologies et la manière dont elles influencent notre perception, nos émotions et notre compréhension du monde.
 
-<img src="photo/description_exposition.jpg" alt="photo exposition" width="500">    <img src="photo/lieu_exposition.jpg" alt="lieu exposition" width="500">
+<img src="photo/description_exposition.jpg" alt="photo exposition" width="500"> 
 
-
+<img src="photo/lieu_exposition.jpg" alt="lieu exposition" width="500">
 
 ---
 
@@ -20,9 +20,9 @@ L’exposition *Devenirs partagés. Pratiques de l’IA* explore les liens entre
 ## Terre commune  
 **Artiste :** Marion Schneider
 
-![présentation oeuvre](photo/presentation_complete_oeuvre.jpg)
+<img src="photo/presentation_complete_oeuvre.jpg" alt="présentation oeuvre" width="500">
 
-![Oeuvre](photo/description_oeuvre.jpg)
+<img src="photo/description_oeuvre.jpg" alt="description oeuvre" width="500">
 
 ---
 
@@ -73,11 +73,11 @@ L’oeuvre comprend :
 
 La partie technique repose sur la transformation de données liées à l’activité cérébrale en formes visuelles animées.
 
-![Composante 1](photo/bandeau_oeuvre.jpg)
+<img src="photo/bandeau_oeuvre.jpg" alt="composante 1" width="500">
 
-![Composante 4](photo/projection_images.jpg)
+<img src="photo/projection_images.jpg" alt="composante 2" width="500">
 
-![Composante 5](photo/tableau_ondes_cerebrales.jpg)
+<img src="photo/tableau_ondes_cerebrales.jpg" alt="composante 3" width="500">
 
 ---
 
@@ -94,11 +94,11 @@ Pour que l’installation fonctionne correctement dans l'espace d’exposition, 
 
 Ces éléments sont essentiels pour préserver le caractère immersif de l’oeuvre et assurer son bon fonctionnement technique.
 
-![meuble](photo/banc_oeuvre.jpg)
+<img src="photo/banc_oeuvre.jpg" alt="élement 1" width="500">
 
-![Composante 2](photo/projecteur_image.jpg)
+<img src="photo/projecteur_image.jpg" alt="élement 2" width="500">
 
-![Composante 3](photo/projecteurs_lumiere.jpg)
+<img src="photo/projecteurs_lumiere.jpg" alt="élement 3" width="500">
 
 ---
 
