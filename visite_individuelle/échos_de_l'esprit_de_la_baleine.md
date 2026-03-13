@@ -125,7 +125,7 @@ Marshmallow Laser Feast est l'un des collectifs d'art immersif les plus influent
 ## Ce qui m'a plu
 L'esthétique des nuages de points (point clouds) est particulièrement marquante. Elle permet de visualiser l'invisible et offre une direction artistique fluide qui inspire la création d'environnements 3D dynamiques. Ce qui m'a plu de l'exposition, c'est qu'il y avait des panneaux d'informations sur un écran interactif sur le son, le Fleuve Saint-Laurent et sur le monde marin qui permettait d'en savoir plus sur ces 3 aspects et c'était effectivement intéressant.
 
-<img src="photos/Information_1_exposition.jpg" alt="info 1" width="399"> <img src="photos/Information_2_exposition.jpg" alt="info 2" width="399"> <img src="photos/Information_3_exposition.jpg" alt="info 3" width="399">
+<img src="photos/Information_1_exposition.jpg" alt="info 1" width="399"> <img src="photos/Information_2_exposition.jpg" alt="info 2" width="399"> <img src="photos/Informaton_3_exposition.jpg" alt="info 3" width="399">
 > Les photos suivantes représentes les différents panneaux d'information sur le thème de l'exposition. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
