@@ -9,6 +9,8 @@
 
 **Eaux vives** est le premier parcours thématique présenté par **Panorama Expérience**, un nouvel espace immersif permanent situé au **Grand Quai du Port de Montréal**. Situé stratégiquement au-dessus du fleuve Saint-Laurent, ce lieu sert de laboratoire de récits où la technologie rencontre la science et la nature.
 
+<img src="photos/Description_oeuvre.jpg" alt="photo exposition" width="500">
+
 ### Concept de l'exposition
 L'exposition est conçue comme une immersion totale dans le monde aquatique, visant à sensibiliser le public à la fragilité des écosystèmes marins. Elle rassemble quatre artistes et collectifs de renommée internationale :
 
