@@ -77,10 +77,8 @@ L’œuvre suit les parcours de trois principales espèces : un dauphin à gros 
 
 La mise en espace de l’œuvre repose sur un dispositif immersif multi-écrans et multicanal, disposé de manière panoramique autour du spectateur. Le visiteur est placé au centre d’un environnement audiovisuel évolutif qui reproduit la perception sensorielle des cétacés et l’immerge dans un paysage océanique sonore et visuel. Également, l'exposition nous montre un plan assez détaillé de ses différents espaces pour bien se situer et de voir concrètement ce qui nous attend au fil de l'exposition.
 
-<img src="photos/Croquis_oeuvre.jpg" alt="croquis" width="500">
-
-<img src="photos/Plan_exposition.jpg" alt="plan" width="500">
-
+<img src="photos/Croquis_oeuvre.jpg" alt="croquis" width="399"> <img src="photos/Plan_exposition.jpg" alt="plan" width="399">
+> La photo de gauche représente le croquis de l'oeuvre et la photo de droite représente le plan de tout les espaces de l'exposition. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
 ## Composantes et techniques
@@ -90,16 +88,8 @@ Le dispositif repose sur une fusion de plusieurs domaines techniques et scientif
 **Imagerie contemporaine :** Le collectif fusionne des outils architecturaux et des techniques d'imagerie pour sculpter des espaces numériques.
 **Perception sensorielle :** Le projet cherche à combler l'écart entre la perception humaine et les capacités sensorielles des baleines, notamment leur relation complexe au son.
 
-<img src="photos/Écran_droit.jpg" alt="projection 1" width="500">
-
-<img src="photos/Écran_gauche.jpg" alt="projection 2" width="500">
-
-<img src="photos/Écran_milieu.jpg" alt="projection 3" width="500">
-
-<img src="photos/Haut_parleur_droit.jpg" alt="son 1" width="500">
-
-<img src="photos/Haut_parleur_gauche.jpg" alt="son 2" width="500">
-
+<img src="photos/Écran_droit.jpg" alt="projection 1" width="399"> <img src="photos/Écran_gauche.jpg" alt="projection 2" width="399"> <img src="photos/Écran_milieu.jpg" alt="projection 3" width="399"> <img src="photos/Haut_parleur_droit.jpg" alt="son 1" width="399"> <img src="photos/Haut_parleur_gauche.jpg" alt="son 2" width="399">
+> Les photos suivantes représentes tout les composants nécessaires à l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
 ## Éléments nécessaires à la mise en exposition
@@ -112,16 +102,8 @@ Pour que l’installation fonctionne correctement dans l'espace d’exposition, 
 
   Ces éléments sont essentiels pour préserver le caractère immersif de l’oeuvre et assurer son bon fonctionnement technique.
 
-<img src="photos/Projecteur_droit.jpg" alt="projecteur 1" width="500">
-
-<img src="photos/Projecteur_gauche.jpg" alt="projecteur 2" width="500">
-
-<img src="photos/Projecteur_milieu.jpg" alt="projecteur 3" width="500">
-
-<img src="photos/Projecteur_lumière.jpg" alt="lumière" width="500">
-
-<img src="photos/Espace_repos.jpg" alt="banc" width="500">
-
+<img src="photos/Projecteur_droit.jpg" alt="projecteur 1" width="399"> <img src="photos/Projecteur_gauche.jpg" alt="projecteur 2" width="399"> <img src="photos/Projecteur_milieu.jpg" alt="projecteur 3" width="399"> <img src="photos/Projecteur_lumière.jpg" alt="lumière" width="399"> <img src="photos/Espace_repos.jpg" alt="banc" width="399">
+> Les photos suivantes représentes tout les éléments nécessaires à la mise en exposition de l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
 ## À propos des artistes : Marshmallow Laser Feast (MLF)
@@ -142,12 +124,8 @@ Marshmallow Laser Feast est l'un des collectifs d'art immersif les plus influent
 ## Ce qui m'a plu
 L'esthétique des nuages de points (point clouds) est particulièrement marquante. Elle permet de visualiser l'invisible et offre une direction artistique fluide qui inspire la création d'environnements 3D dynamiques. Ce qui m'a plu de l'exposition, c'est qu'il y avait des panneaux d'informations sur un écran interactif sur le son, le Fleuve Saint-Laurent et sur le monde marin qui permettait d'en savoir plus sur ces 3 aspects et c'était effectivement intéressant.
 
-<img src="photos/Information_1_exposition.jpg" alt="info 1" width="500">
-
-<img src="photos/Information_2_exposition.jpg" alt="info 2" width="500">
-
-<img src="photos/Information_3_exposition.jpg" alt="info 3" width="500">
-
+<img src="photos/Information_1_exposition.jpg" alt="info 1" width="399"> <img src="photos/Information_2_exposition.jpg" alt="info 2" width="399"> <img src="photos/Information_3_exposition.jpg" alt="info 3" width="399">
+> Les photos suivantes représentes les différents panneaux d'information sur le thème de l'exposition. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
 ## Ce que je ferais autrement
