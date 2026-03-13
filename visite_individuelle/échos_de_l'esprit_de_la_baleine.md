@@ -37,7 +37,7 @@ L'exposition se distingue par son approche **Art-Science**. Chaque œuvre est ba
 **Année de réalisation :** 2024.
 
 <img src="photos/Vue_ensemble_oeuvre.jpg" alt="présentation oeuvre" width="399"> <img src="photos/Description_oeuvre.jpg" alt="description oeuvre" width="399">
-> La photo de gauche est l'ensemble de l'oeuvre et la photo de droite est la description de l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
+> La photo de gauche est la vue de l'ensemble de l'oeuvre et la photo de droite est la description de l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
 ## Description de l'œuvre
