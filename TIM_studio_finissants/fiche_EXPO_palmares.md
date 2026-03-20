@@ -2,3 +2,6 @@
 
 ---
 
+## #2- O.I.G.N.O.N.
+
+Voici le nom de tous les créateurs du projet : *Ahmed Kaissoumi* , *Radhouane Kordan* , *Justin Montpetit* , *Thearylou Lach* et *Jad Saloumi*
