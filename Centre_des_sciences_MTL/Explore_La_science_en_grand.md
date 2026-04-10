@@ -13,10 +13,11 @@ L'exposition *Explore - La science en grand*
 
 # Oeuvre choisie
 
-##   
+##
+
 **Artiste :** 
 
-**Année de réalisation :** 2025
+**Année de réalisation :** 2019 ou 2020
 
 ---
 
