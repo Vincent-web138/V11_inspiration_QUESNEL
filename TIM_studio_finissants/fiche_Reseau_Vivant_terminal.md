@@ -22,7 +22,7 @@ L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et 
 
 **Année de réalisation :** 2026
 
-<img src="photos_oeuvre_terminal/Projection_terminal.jpg" alt="présentation oeuvre" width="399"> <img src="photos_oeuvre_terminal/Affiche_description_projet_terminal.jpg" alt="description projet" width="399">
+<img src="photos_oeuvre_terminal/Projection_terminal.jpg" alt="présentation oeuvre" width="350"> <img src="photos_oeuvre_terminal/Affiche_description_projet_terminal.jpg" alt="description projet" width="350">
 
 ---
 
