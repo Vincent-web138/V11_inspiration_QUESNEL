@@ -19,7 +19,7 @@ L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et 
 
 **Artiste :** 
 
-**Année de réalisation :** 2019 ou 2020
+**Année de réalisation :** 2026
 
 ---
 
@@ -82,8 +82,8 @@ L’oeuvre comprend :
 ## Références
 
 Photos : Vincent Quesnel  
-Exposition : Centre des sciences de Montréal  
+Exposition : Collège Montmorency, grand studio  
 Artiste :   
-Oeuvre : 
+Oeuvre : Terminal
 
 Liens consultés :
