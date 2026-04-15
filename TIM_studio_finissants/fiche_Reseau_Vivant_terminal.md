@@ -9,7 +9,7 @@
 
 L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et aux expériences que nous partageons, en se présentant comme une toile en constante évolution faite d’échanges, de gestes, de données et d’émotions. Cette idée est au cœur de l’exposition collective des finissantes et finissants en Techniques d’intégration multimédia du Collège Montmorency, qui y dévoilent le résultat de leur parcours commun en mettant de l’avant les compétences acquises ainsi que les liens créés tout au long de leur formation. Par sa présence et ses interactions, le public participe activement à la transformation du réseau et des œuvres présentées.
 
-<img src="photos_exposition_générales/Affiche_exposition_murale.jpg" alt="projection exposition" width="300"> <img src="photos_exposition_générales/Affiche_exposition_tableau.jpg" alt="photo exposition" width="300">
+<img src="photos_exposition_générales/Affiche_exposition_murale.jpg" alt="projection exposition" width="200"> <img src="photos_exposition_générales/Affiche_exposition_tableau.jpg" alt="photo exposition" width="200">
 
 ---
 
