@@ -28,31 +28,39 @@ L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et 
 
 ## Description de l’oeuvre
 
-
+*TERMINAL* se présente comme une expérience vidéoludique coopérative pour un maximum de six joueurs. L'intrigue plonge les participants dans une mission de sauvetage de données corrompues par un pirate informatique. La mécanique principale repose sur la gestion de l'espace : chaque mouvement génère une traînée persistante qui agit comme un obstacle mortel pour les autres, forçant une coordination constante pour atteindre la sortie sans encombre.
 
 ---
 
 ## Type d’installation
 
-
+Le projet se définit comme une installation interactive, immersive et temporaire, mise en place spécifiquement pour l'exposition Réseau Vivant. L'interactivité est au cœur du concept, puisque le public utilise ses propres téléphones intelligents comme manettes de jeu. L'aspect immersif est quant à lui assuré par la combinaison d'une projection murale grand format, d'un environnement sonore directionnel et d'un éclairage qui permet une ambience directe avec le jeu et avec celui des joueurs dans le studio.
 
 ---
 
 ## Fonction du dispositif multimédia
 
-
+Le système remplit plusieurs fonctions stratégiques qui dépassent le simple cadre du divertissement. En tant que support pédagogique et expérientiel, il favorise l'apprentissage de la collaboration par l'essai et l'erreur, poussant les participants à communiquer verbalement pour progresser. Le dispositif a également pour fonction de mettre en valeur l'interaction sociale en transformant un groupe de visiteurs en une équipe soudée partageant une responsabilité commune. Enfin, il assure une fonction scénographique en utilisant des composantes physiques comme des LEDs pour créer un pont visuel entre le monde virtuel et l'espace réel.
 
 ---
 
 ## Mise en espace
 
-
+L'organisation physique du grand studio a été optimisée pour favoriser le regroupement des joueurs face à la projection murale. Des poufs colorés, verts et oranges, sont disposés au sol pour offrir une assise confortable et délimiter l'aire de jeu. L'entrée de la zone est structurée par deux socles distincts : l'un accueille le cartel descriptif présentant le projet, tandis que l'autre supporte l'infrastructure technique incluant le routeur et un cube de LEDs réactives. L'ambiance visuelle est dominée par la projection du titre "TERMINAL", intégrant un effet de code numérique défilant qui invite les participants à se connecter.
 
 ---
 
 ## Composantes et techniques
 
-L’oeuvre comprend :
+La réalisation technique du projet repose sur l'intégration de plusieurs outils et matériels :
+
+- Logiciels de création : Utilisation d'Unity pour le moteur de jeu, pour le langage et l'environnement, et pour la projection ainsi que de Reaper pour la conception sonore.
+
+- Infrastructure réseau : Communication en temps réel assurée par le protocole WebSocket, le système NGrok et une borne réseau (routeur) dédiée.
+
+- Diffusion visuelle : Projecteurs installés au plafond pour la projection murale principale.
+
+- Diffusion sonore : Haut-parleurs de monitoring Focal suspendu au plafond pour une immersion audio précise.
 
 
 
@@ -60,7 +68,17 @@ L’oeuvre comprend :
 
 ## Éléments nécessaires à la mise en exposition
 
+Pour assurer le bon fonctionnement et l'accessibilité du projet dans l'espace d'exposition, les éléments suivants sont requis :
 
+- Mobilier de support : Deux socles pour accueillir le matériel informatique et les cartels d'information.
+
+- Confort des visiteurs : Poufs ergonomiques colorés pour délimiter la zone de jeu et permettre aux interacteurs de s'installer.
+
+- Infrastructure invisible : Système complet de câblage et fils électriques pour l'alimentation des équipements et la transmission de données entre les différents modules.
+
+- Signalétique interactive : Affiches avec codes QR pour permettre la connexion instantanée des téléphones LTE ou locaux.
+
+- Éléments d'ambiance physique : Cube LED et bâtons lumineux synchronisés pour le retour visuel en temps réel dans la salle.
 
 ---
 
@@ -89,4 +107,4 @@ Exposition : Collège Montmorency, grand studio
 Équipe de production : Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger  
 Oeuvre : Terminal
 
-Liens consultés :
+Liens consultés : [Github terminal](https://pythons-5.github.io/Terminal/#/) [Présentation exposition Réseau Vivant](https://tim-montmorency.com/2026/)
