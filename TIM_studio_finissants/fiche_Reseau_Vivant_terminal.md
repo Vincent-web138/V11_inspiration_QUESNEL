@@ -62,7 +62,7 @@ La réalisation technique du projet repose sur l'intégration de plusieurs outil
 
 - Diffusion sonore : Haut-parleurs de monitoring Focal suspendu au plafond pour une immersion audio précise.
 
-
+<img src="photos_oeuvre_terminal/Haut_parleur_gauche.jpg" alt="son_1" width="350"> <img src="photos_oeuvre_terminal/Haut_parleur_droit.jpg" alt="son_2" width="350"> <img src="photos_oeuvre_terminal/Projecteur_terminal.jpg" alt="projecteur" width="350"> <img src="photos_oeuvre_terminal/Routeur_reseau_projet_terminal.jpg" alt="borne réseau" width="350">
 
 ---
 
@@ -79,6 +79,8 @@ Pour assurer le bon fonctionnement et l'accessibilité du projet dans l'espace d
 - Signalétique interactive : Affiches avec codes QR pour permettre la connexion instantanée des téléphones LTE ou locaux.
 
 - Éléments d'ambiance physique : Cube LED et bâtons lumineux synchronisés pour le retour visuel en temps réel dans la salle.
+
+<img src="photos_oeuvre_terminal/Socle_code_QR_et_affiche_terminal.jpg" alt="support" width="350"> <img src="photos_oeuvre_terminal/Poufs_projet_terminal.jpg" alt="confort" width="350"> <img src="photos_oeuvre_terminal/Code_QR_terminal.jpg" alt="connexion" width="350">
 
 ---
 
