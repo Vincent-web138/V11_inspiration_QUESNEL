@@ -16,7 +16,7 @@ L'exposition *Explore - La science en grand* au Centre des sciences de Montréal
 
 ##
 
-**Artiste :** 
+**Artistes :** TKNL, Ubisoft, Pratt & Whitney et Element AI
 
 **Année de réalisation :** 2019 ou 2020
 
@@ -82,7 +82,7 @@ L’oeuvre comprend :
 
 Photos : Vincent Quesnel  
 Exposition : Centre des sciences de Montréal  
-Artiste :   
+Artiste : TKNL, Ubisoft, Pratt & Whitney et Element AI
 Oeuvre : 
 
 Liens consultés : [Centre des sciences de MTL, exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/explore) [Communiqué de presse, exposition Explore](https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/communique_exploreprixcascade_csm_fr_20210924_vf_1_0.pdf)
