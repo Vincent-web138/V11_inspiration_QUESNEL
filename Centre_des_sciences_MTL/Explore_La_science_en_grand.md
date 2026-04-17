@@ -83,6 +83,7 @@ L’oeuvre comprend :
 Photos : Vincent Quesnel  
 Exposition : Centre des sciences de Montréal  
 Artiste : TKNL, Ubisoft, Pratt & Whitney et Element AI
+
 Oeuvre : 
 
 Liens consultés : [Centre des sciences de MTL, exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/explore) [Communiqué de presse, exposition Explore](https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/communique_exploreprixcascade_csm_fr_20210924_vf_1_0.pdf)
