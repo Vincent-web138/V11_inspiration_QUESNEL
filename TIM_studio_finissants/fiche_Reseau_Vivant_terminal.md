@@ -86,19 +86,19 @@ Pour assurer le bon fonctionnement et l'accessibilité du projet dans l'espace d
 
 ## Expérience vécue
 
-
+J'ai particulièrement apprécié le fait de jouer à un jeu vidéo dont l'approche diffère totalement de ce à quoi je suis habitué. Le parcours m'a semblé fluide : du scan du code QR jusqu'à l'entrée dans le niveau, j'ai senti que mon rôle d'opérateur était central. Contrairement aux jeux classiques, j'ai dû ici constamment négocier mes déplacements avec mes alliés pour ne pas les piéger.
 
 ---
 
 ## Ce qui m’a plu
 
-
+Ce qui m'a le plus séduit, c'est le contrôle direct de mon personnage via mon téléphone et la perception immédiate de mes actions sur la projection murale. Cette synchronisation en temps réel m'a donné un sentiment de puissance et d'impact direct sur l'œuvre. L'utilisation d'un objet personnel comme interface a rendu l'expérience très intuitive pour moi.
 
 ---
 
 ## Ce que je ferais autrement
 
-
+Si je devais revoir un aspect du projet, je travaillerais sur l'équilibrage de la difficulté de certains niveaux. Lors de ma partie, j'ai remarqué que certains passages étaient extrêmement complexes, au point de créer une certaine frustration car nous n'arrivions pas à les franchir. Je simplifierais ces niveaux pour assurer une progression plus fluide et gratifiante pour tous les types de joueurs.
 
 ---
 
