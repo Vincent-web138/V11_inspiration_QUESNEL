@@ -48,7 +48,7 @@ Le système remplit plusieurs fonctions stratégiques qui dépassent le simple c
 
 L'organisation physique du grand studio a été optimisée pour favoriser le regroupement des joueurs face à la projection murale. Des poufs colorés, verts et oranges, sont disposés au sol pour offrir une assise confortable et délimiter l'aire de jeu. L'entrée de la zone est structurée par deux socles distincts : l'un accueille le cartel descriptif présentant le projet, tandis que l'autre supporte l'infrastructure technique incluant le routeur et un cube de LEDs réactives. L'ambiance visuelle est dominée par la projection du titre "TERMINAL", intégrant un effet de code numérique défilant qui invite les participants à se connecter.
 
-<img src="photos_oeuvre_terminal/Croquis_oeuvre.jpg" alt="présentation oeuvre" width="350">
+<img src="photos_oeuvre_terminal/Croquis_oeuvre.png" alt="présentation oeuvre" width="350">
 
 ---
 
