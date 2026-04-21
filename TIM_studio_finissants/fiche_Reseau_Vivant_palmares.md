@@ -22,7 +22,7 @@ Voici le nom de tous les créateurs du projet : *Yannick Chamberland* , *Benjami
 
 Voici le nom de tous les créateurs du projet : *Amira Tounekti* et *Kristy Moussally*. [Équipe de production](https://deux-intelligence.github.io/deux-neurones/#/equipe/)
 
-<img src="photos_exposition_générales/Vue_ensemble_projet_ocean_rouge.jpg" alt="présentation oeuvre 4" width="200"> <img src="Schema_installation_projets/Schema_installation_ocean_rouge.jpg" alt="installation #4" width="300">
+<img src="photos_exposition_générales/Vue_ensemble_projet_ocean_rouge.jpg" alt="présentation oeuvre 4" width="200"> <img src="Schema_installation_projets/Schema_installation_ocean_rouge.jpg" alt="installation #4" width="400">
 
 ---
 
