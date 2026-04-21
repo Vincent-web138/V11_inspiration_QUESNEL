@@ -14,7 +14,7 @@ Voici le nom de tous les créateurs du projet : *Ahmed Kaissoumi* , *Radhouane K
 
 Voici le nom de tous les créateurs du projet : *Yannick Chamberland* , *Benjamin Ferland* , *Ryan Dufault* et *Walid Cheour*. [Équipe de production](https://les-chimistes.github.io/symbiose/#/equipe/)
 
-<img src="photos_exposition_générales/Vue_ensemble_projet_Symbiose.jpg" alt="présentation oeuvre 3" width="200"> <img src="Schema_installation_projets/Schema_installation_symbiose.webp" alt="installation #3" width="300">
+<img src="photos_exposition_générales/Vue_ensemble_projet_Symbiose.jpg" alt="présentation oeuvre 3" width="200"> <img src="Schema_installation_projets/Schema_installation_symbiose.webp" alt="installation #3" width="400">
 
 ---
 
