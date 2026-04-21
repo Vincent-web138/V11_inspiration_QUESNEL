@@ -6,7 +6,7 @@
 
 Voici le nom de tous les créateurs du projet : *Ahmed Kaissoumi* , *Radhouane Kordan* , *Justin Montpetit* , *Thearylou Lach* et *Jad Saloumi*. [Équipe de production](https://o-i-g-n-o-n.github.io/Mission-decollage/#/equipe/)
 
-<img src="photos_exposition_générales/Vue_ensemble_projet_oignon.jpg" alt="présentation oeuvre 2" width="200"> <img src="Schema_installation_projets/Schema_installation_OIGNON.jpg" alt="installation #2" width="300">
+<img src="photos_exposition_générales/Vue_ensemble_projet_oignon.jpg" alt="présentation oeuvre 2" width="200"> <img src="Schema_installation_projets/Schema_installation_OIGNON.jpg" alt="installation #2" width="400">
 
 ---
 
