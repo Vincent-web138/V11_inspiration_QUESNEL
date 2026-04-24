@@ -7,7 +7,8 @@
 Voici le nom de tous les créateurs du projet : *Ahmed Kaissoumi* , *Radhouane Kordan* , *Justin Montpetit* , *Thearylou Lach* et *Jad Saloumi*. [Équipe de production](https://o-i-g-n-o-n.github.io/Mission-decollage/#/equipe/)
 
 <img src="photos_exposition_générales/Vue_ensemble_projet_oignon.jpg" alt="présentation oeuvre 2" width="200"> <img src="Schema_installation_projets/Schema_installation_OIGNON.jpg" alt="installation #2" width="400">
-> L'image de gauche est la vue d'ensemble du projet OIGNON
+> L'image de gauche est la vue d'ensemble du projet OIGNON dans le grand studio. La photo a été pris par moi (Vincent Quesnel). Et la photo de droite est le schéma de mise en espace du projet OIGNON. Le schéma provient du github de l'équipe qui a réalisé le projet.
+
 Ce que je ressens :
 Avant de l'essayer, j’avais déjà le sentiment que ce projet pouvait être très intéressant, notamment par son univers visuel. Après l’avoir expérimenté, ma première impression s’est confirmée : c’est un très bon projet. J'ai trouvé que l'interaction était bien ficelée et que l'expérience globale était solide, ce qui justifie sa position juste après mon projet coup de cœur.
 
