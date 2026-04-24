@@ -64,3 +64,5 @@ Nom de la technique : La Vision par ordinateur (Computer Vision) et le Suivi fac
 
 Description :
 Dans le projet *Quand les Yeux Se croisent*, j'ai découvert l'utilisation de la vision par ordinateur. Cette technique permet à un ordinateur de "voir" et d'analyser les images provenant d'une caméra en temps réel. Grâce à des algorithmes de suivi facial, le système est capable de repérer précisément la position des yeux de l'interacteur dans l'espace. Concrètement, l'installation utilise ces données pour isoler le regard de la personne et le projeter instantanément sur les télévisions, tout en adaptant la taille et la direction des yeux selon que l'on se déplace ou que l'on s'approche. Avant l'exposition, je savais qu'une caméra pouvait filmer, mais je ne connaissais pas la complexité technique nécessaire pour que le logiciel "comprenne" les mouvements du visage et les traduise en interactions visuelles et lumineuses (LED) de manière aussi fluide.
+
+<img src="photos_exposition_générales/Vision_par_ordinateur.webp" alt="computer vision" width="200"> <img src="photos_exposition_générales/Suivi_facial.webp" alt="face tracking" width="200">
