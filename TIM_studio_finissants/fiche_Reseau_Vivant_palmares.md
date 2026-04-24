@@ -54,3 +54,13 @@ Voici le nom de tous les créateurs du projet : *Edelwyn Ledru* , *Félix Lavoie
 
 Ce que je ressens :
 J'étais très sceptique face à ce projet avant même de l'essayer. Malheureusement, l'expérimentation n'a pas réussi à lever mes doutes. J'ai trouvé qu'il manquait un élément déclencheur ou une mécanique qui accroche réellement l'interacteur. C’est pour cette raison que je l'ai placé en dernière position de mes préférences, car je n'ai pas ressenti l'intérêt ou l'immersion que je recherchais.
+
+---
+
+Pour avoir les compétences pour créer ce genre de projet voici 3 cours du programme qui me semblent incontournables : *Traitement audiovisuel* , *Animation 3D* et *Web 5*.
+
+#### Technique ou composante technologique méconnue
+Nom de la technique : La Vision par ordinateur (Computer Vision) et le Suivi facial (Face Tracking).
+
+Description :
+Dans le projet *Quand les Yeux Se croisent*, j'ai découvert l'utilisation de la vision par ordinateur. Cette technique permet à un ordinateur de "voir" et d'analyser les images provenant d'une caméra en temps réel. Grâce à des algorithmes de suivi facial, le système est capable de repérer précisément la position des yeux de l'interacteur dans l'espace. Concrètement, l'installation utilise ces données pour isoler le regard de la personne et le projeter instantanément sur les télévisions, tout en adaptant la taille et la direction des yeux selon que l'on se déplace ou que l'on s'approche. Avant l'exposition, je savais qu'une caméra pouvait filmer, mais je ne connaissais pas la complexité technique nécessaire pour que le logiciel "comprenne" les mouvements du visage et les traduise en interactions visuelles et lumineuses (LED) de manière aussi fluide.
