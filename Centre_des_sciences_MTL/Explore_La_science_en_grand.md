@@ -61,7 +61,7 @@ En observant attentivement l'installation et les crédits, j'ai identifié les �
 
 - Structure physique : Un support d'écran central sur mesure et des parois de salle acoustiques.
 
-<img src="photos/Vue_choix_parametres_jeu.jpg" alt="parmaètres du jeu" width="200"> <img src="photos/Vue_ecran_mural.jpg" alt="écran mural" width="200"> <img src="photos/Vue_jeu_sur_ecran_central.jpg" alt="jeu sur écran central" width="200"> <img src="photos/Vue_jeu_sur_ecran_mural.jpg" alt="jeu sur écran mural" width="200">
+<img src="photos/Vue_choix_parametres_jeu.jpg" alt="parmaètres du jeu" width="200"> <img src="photos/Vue_ecran_mural.jpg" alt="écran mural" width="150"> <img src="photos/Vue_jeu_sur_ecran_central.jpg" alt="jeu sur écran central" width="200"> <img src="photos/Vue_jeu_sur_ecran_mural.jpg" alt="jeu sur écran mural" width="200">
 
 ---
 
