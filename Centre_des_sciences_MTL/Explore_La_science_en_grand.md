@@ -31,6 +31,7 @@ L'exposition *Explore - La science en grand* au Centre des sciences de Montréal
 
 <img src="photos/Vue_victoire_jeu.jpg" alt="fin de victoire" width="200">
 > Interface finale affichant la réussite du parcours sur l'écran de contrôle. Photo pris par moi (Vincent Quesnel)
+
 ---
 
 ## Type d’installation
