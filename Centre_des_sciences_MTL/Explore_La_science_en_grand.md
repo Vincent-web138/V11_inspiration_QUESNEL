@@ -9,7 +9,7 @@
 
 L'exposition *Explore - La science en grand* au Centre des sciences de Montréal est une exposition permanente entièrement interactive où nous apprenons en expérimentant directement avec notre corps et nos sens. Plutôt que de simplement lire des panneaux, nous touchons, nous manipulons et nous testons nous-mêmes plus de 50 installations. L’idée est de rendre la science concrète et accessible en montrant comment elle s’applique dans la vie de tous les jours. L’exposition est divisée en plusieurs zones qui couvrent différents thèmes, comme le mouvement avec des machines et des engrenages, l’air et ses effets invisibles comme la pression ou le vent, la lumière avec les reflets et les couleurs, et l’eau avec ses courants et ses forces. Il y a aussi des espaces dédiés aux mathématiques, à la matière et à la technologie, où nous pouvons par exemple programmer ou interagir avec des robots. Ce qui rend « Explore » spécial, c’est que tout est conçu pour être vécu activement : nous ne sommes pas de simples spectateurs, nous faisons partie de l’expérience. C’est une façon ludique et immersive de comprendre les bases de la science sans même nous en rendre compte, que nous soyons enfants ou adultes.
 
-<img src="photos/Nom_exposition_1.jpg" alt="nom exposition partie 1" width="300"> <img src="photos/Nom_exposition_2.jpg" alt="nom exposition partie 2" width="360"> <img src="photos/Nom_exposition_vitre.jpg" alt="nom exposition vitrée" width="200">
+<img src="photos/Nom_exposition_1.jpg" alt="nom exposition partie 1" width="300"> <img src="photos/Nom_exposition_2.jpg" alt="nom exposition partie 2" width="355"> <img src="photos/Nom_exposition_vitre.jpg" alt="nom exposition vitrée" width="200">
 
 ---
 
