@@ -77,7 +77,7 @@ Pour que cette installation fonctionne dans un milieu muséal, j'ai noté que ce
 
 - Éclairage asservi : Des lumières styles dorés fixés au plafond qui complètent l'ambiance visuelle.
 
-<img src="photos/Support_ecran_central.jpg" alt="socle pour écran central" width="200"> <img src="photos/Nom_emplacement_du_dispositif.jpg" alt="emplacement dédié au dispositif" width="200"> <img src="photos/Entree du dispositif.jpg" alt="entrée du dispositif" width="200"> <img src="photos/Vue_exterieur_dispositif.jpg" alt="salle d'exposition" width="200"> <img src="photos/Lumieres_ambiance_pour_la_salle.jpg" alt="lumières d'ambiance" width="200">
+<img src="photos/Support_ecran_central.jpg" alt="socle pour écran central" width="200"> <img src="photos/Nom_emplacement_du_dispositif.jpg" alt="emplacement dédié au dispositif" width="200"> <img src="photos/Entree_du_dispositif.jpg" alt="entrée du dispositif" width="200"> <img src="photos/Vue_exterieur_dispositif.jpg" alt="salle d'exposition" width="200"> <img src="photos/Lumieres_ambiance_pour_la_salle.jpg" alt="lumières d'ambiance" width="200">
 
 ---
 
