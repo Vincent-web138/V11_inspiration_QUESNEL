@@ -6,3 +6,4 @@ Dans un premier temps, Boucher a décrit les différentes étapes du projet, de 
 En conclusion, j’ai trouvé la conférence particulièrement éclairante, car elle montrait de manière concrète comment le multimédia peut enrichir la transmission d’un patrimoine industriel. L’approche de Martin Boucher, à la fois méthodique et sensible au contexte, permettait de comprendre la complexité de ce type de projet et l’importance d’un dialogue constant entre contenu, design et technologie.
 
 <img src="photos/Description_oeuvre.jpeg" width="200"> <img src="photos/Presentation_dispositif_multimedia.jpeg" width="200"> <img src="photos/Vue_ensemble_oeuvre.jpeg" width="200">
+> Les photos proviennent de Teams, dans l'équipe H26_TIM_Exposition_gr2, dans la section partagé, dans le dossier musee_ingeniosite_photo_SF_202602. Les photos ont été prises par Francois, Sylvie.
