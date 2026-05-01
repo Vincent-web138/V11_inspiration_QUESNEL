@@ -109,4 +109,6 @@ Artiste : TKNL, Ubisoft, Pratt & Whitney et Element AI
 
 Oeuvre : Intelligente, la conduite?
 
+<img src="photos/Credits_exposition.jpg" alt="crédits de l'exposition" width="200"> <img src="photos/Contribution_exposition.jpg" alt="contribution de l'exposition" width="200">
+
 Liens consultés : [Centre des sciences de MTL, exposition](https://www.centredessciencesdemontreal.com/exposition-permanente/explore) [Communiqué de presse, exposition Explore](https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/communique_exploreprixcascade_csm_fr_20210924_vf_1_0.pdf)
