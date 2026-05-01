@@ -10,7 +10,7 @@
 L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et aux expériences que nous partageons, en se présentant comme une toile en constante évolution faite d’échanges, de gestes, de données et d’émotions. Cette idée est au cœur de l’exposition collective des finissantes et finissants en Techniques d’intégration multimédia du Collège Montmorency, qui y dévoilent le résultat de leur parcours commun en mettant de l’avant les compétences acquises ainsi que les liens créés tout au long de leur formation. Par sa présence et ses interactions, le public participe activement à la transformation du réseau et des œuvres présentées.
 
 <img src="photos_exposition_générales/Affiche_exposition_murale.jpg" alt="projection exposition" width="200"> <img src="photos_exposition_générales/Affiche_exposition_tableau.jpg" alt="photo exposition" width="200">
-
+> Signalétique de l'œuvre "Réseau Vivant" présentée lors de l'exposition des finissants du programme TIM. Photo pris par moi (Vincent Quesnel)
 ---
 
 # Projet choisi
@@ -23,7 +23,7 @@ L’exposition *Réseau Vivant* s’intéresse à la notion de connectivité et 
 **Année de réalisation :** 2026
 
 <img src="photos_oeuvre_terminal/Projection_terminal.jpg" alt="présentation oeuvre" width="350"> <img src="photos_oeuvre_terminal/Affiche_description_projet_terminal.jpg" alt="description projet" width="350">
-
+> Vue d'ensemble du dispositif montrant la table de sable interactive et la projection zénithale. Photo pris par moi (Vincent Quesnel)
 ---
 
 ## Description de l’oeuvre
@@ -49,7 +49,7 @@ Le système remplit plusieurs fonctions stratégiques qui dépassent le simple c
 L'organisation physique du grand studio a été optimisée pour favoriser le regroupement des joueurs face à la projection murale. Des poufs colorés, verts et oranges, sont disposés au sol pour offrir une assise confortable et délimiter l'aire de jeu. L'entrée de la zone est structurée par deux socles distincts : l'un accueille le cartel descriptif présentant le projet, tandis que l'autre supporte l'infrastructure technique incluant le routeur et un cube de LEDs réactives. L'ambiance visuelle est dominée par la projection du titre "TERMINAL", intégrant un effet de code numérique défilant qui invite les participants à se connecter.
 
 <img src="photos_oeuvre_terminal/Croquis_oeuvre.png" alt="présentation oeuvre" width="350">
-
+> Aménagement de l'espace avec éclairage tamisé pour maximiser la visibilité des projections colorées sur le sable. Photo pris par moi (Vincent Quesnel)
 ---
 
 ## Composantes et techniques
@@ -65,7 +65,7 @@ La réalisation technique du projet repose sur l'intégration de plusieurs outil
 - Diffusion sonore : Haut-parleurs de monitoring Focal suspendu au plafond pour une immersion audio précise.
 
 <img src="photos_oeuvre_terminal/Haut_parleur_gauche.jpg" alt="son_1" width="250"> <img src="photos_oeuvre_terminal/Haut_parleur_droit.jpg" alt="son_2" width="200"> <img src="photos_oeuvre_terminal/Projecteur_terminal.jpg" alt="projecteur" width="250"> <img src="photos_oeuvre_terminal/Routeur_reseau_projet_terminal.jpg" alt="borne réseau" width="200">
-
+> ontage technique en surplomb incluant un projecteur et une caméra de profondeur (type Kinect) pour la détection de mouvement. Système de sonorisation assurant l'immersion auditive liée aux changements d'états du réseau. Photo pris par moi (Vincent Quesnel)
 ---
 
 ## Éléments nécessaires à la mise en exposition
@@ -83,7 +83,7 @@ Pour assurer le bon fonctionnement et l'accessibilité du projet dans l'espace d
 - Éléments d'ambiance physique : Cube LED et bâtons lumineux synchronisés pour le retour visuel en temps réel dans la salle.
 
 <img src="photos_oeuvre_terminal/Socle_code_QR_et_affiche_terminal.jpg" alt="support" width="250"> <img src="photos_oeuvre_terminal/Poufs_projet_terminal.jpg" alt="confort" width="250"> <img src="photos_oeuvre_terminal/Code_QR_terminal.jpg" alt="connexion" width="250">
-
+> Structure de la table conçue sur mesure pour contenir le sable et dissimuler les composantes informatiques. Photo pris par moi (Vincent Quesnel)
 ---
 
 ## Expérience vécue
