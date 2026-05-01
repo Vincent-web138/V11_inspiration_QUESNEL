@@ -106,7 +106,8 @@ Si je devais suggérer une amélioration, je commencerais par clarifier le nom o
 Photos : Vincent Quesnel  
 Exposition : Centre des sciences de Montréal  
 Artiste : TKNL, Ubisoft, Pratt & Whitney et Element AI 
- Oeuvre : Intelligente, la conduite?
+
+Oeuvre : Intelligente, la conduite?
 
 <img src="photos/Credits_exposition.jpg" alt="crédits de l'exposition" width="200"> <img src="photos/Contribution_exposition.jpg" alt="contribution de l'exposition" width="160">
 
