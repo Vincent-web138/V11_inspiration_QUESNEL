@@ -5,4 +5,4 @@ Dans un premier temps, Boucher a décrit les différentes étapes du projet, de 
 
 En conclusion, j’ai trouvé la conférence particulièrement éclairante, car elle montrait de manière concrète comment le multimédia peut enrichir la transmission d’un patrimoine industriel. L’approche de Martin Boucher, à la fois méthodique et sensible au contexte, permettait de comprendre la complexité de ce type de projet et l’importance d’un dialogue constant entre contenu, design et technologie.
 
-<img src="Description_oeuvre.jpeg" width="100"> <img src="Presentation_dispositif_multimedia.jpeg" width="200"> <img src="Vue_ensemble_oeuvre.jpeg" width="200">
+<img src="Description_oeuvre.jpeg" width="50"> <img src="Presentation_dispositif_multimedia.jpeg" width="200"> <img src="Vue_ensemble_oeuvre.jpeg" width="200">
