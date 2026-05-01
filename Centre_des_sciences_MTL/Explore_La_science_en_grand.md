@@ -29,7 +29,8 @@ L'exposition *Explore - La science en grand* au Centre des sciences de Montréal
 
 *Intelligente, la conduite* est aménagée dans une petite salle fermée et sombre, structurée autour d'un poste de pilotage central et d'un grand écran de diffusion mural. Le cœur du dispositif est un pupitre de commande incliné sur lequel est encastré un écran tactile affichant une interface de réglages composée de curseurs horizontaux. Cet écran sert d'unité de saisie pour modifier les variables de la simulation, comme le style de conduite, la détection des obstacles, la durée de l'entrainement, le type de freinage et la couleur de la voiture. Face à ce pupitre, une projection murale grand format affiche l'environnement de test. La voiture y est représentée en vue de dessus, entourée de zones de détection colorées qui s'étendent devant elle pour balayer la trajectoire. Lorsqu'une session est lancée, on observe le véhicule avancer de manière autonome sur une piste. Si les paramètres de vitesse saisis sur le pupitre permettent au logiciel de détecter les obstacles et de freiner à temps, la voiture complète son parcours avec succès. À l'inverse, si la vitesse dépasse les capacités de freinage du système, le véhicule percute un obstacle. Selon le résultat, un message de victoire ou un message de défaite s'affiche simultanément sur le pupitre et le mur pour clore la partie.
 
-<img src="photos/Vue_victoire_jeu.jpg" alt="fin de victoire" width="200"> > Interface finale affichant la réussite du parcours sur l'écran de contrôle. Photo pris par moi (Vincent Quesnel)
+<img src="photos/Vue_victoire_jeu.jpg" alt="fin de victoire" width="200"> 
+> Interface finale affichant la réussite du parcours sur l'écran de contrôle. Photo pris par moi (Vincent Quesnel)
 
 ---
 
