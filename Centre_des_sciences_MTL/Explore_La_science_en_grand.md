@@ -21,7 +21,7 @@ L'exposition *Explore - La science en grand* au Centre des sciences de Montréal
 
 **Année de réalisation :** 2019 ou 2020
 
-<img src="photos/Vue_ensemble_dispositif.jpg" alt="présentation dispositif multimédia" width="200"> <img src="photos/Information_createur_et_fonction_dispositif.jpg" alt="informations du dispositif multimédia" width="250"> <img src="photos/Credits_dispositif_multimedia.jpg" alt="crédits du dispositif" width="250">
+<img src="photos/Vue_ensemble_dispositif.jpg" alt="présentation dispositif multimédia" width="200"> <img src="photos/Information_createur_et_fonction_dispositif.jpg" alt="informations du dispositif multimédia" width="250"> <img src="photos/Credits_dispositif_multimedia.jpg" alt="crédits du dispositif" width="260">
 
 ---
 
