@@ -91,7 +91,7 @@ J'ai trouvé la progression de l'expérience très fluide. Le fait d'entrer phys
 
 ## Ce qui m’a plu
 
-Ce qui m'a le plus séduit, c'est la clarté visuelle de la simulation sur le grand écran. Voir les faisceaux de détection de la voiture m'a permis de comprendre "comment elle voit". De plus, le message "Perdu" en rouge après un accident est très efficace : il m'a donné envie de recommencer immédiatement pour corriger mes erreurs, ce qui rend l'interaction très addictive.
+Ce qui m'a le plus séduit, c'est la clarté visuelle de la simulation sur le grand écran. Voir les faisceaux de détection de la voiture m'a permis de comprendre "comment elle voit". De plus, l'écran affiché pour dire qu'on a perdu après un accident est très efficace : il m'a donné envie de recommencer immédiatement pour corriger mes erreurs, ce qui rend l'interaction très addictive.
 
 ---
 
