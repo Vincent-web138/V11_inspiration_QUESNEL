@@ -90,7 +90,7 @@ Le parcours commence par une immersion progressive dans le noir. En tant que spe
 
 Ce qui m'a le plus séduit, c'est l'intégration du son dans le mobilier. Voir la baleine à l'écran tout en "sentant" son chant vibrer dans le banc rend l'expérience extrêmement crédible et mémorable. C'est une excellente utilisation de la technologie pour toucher les sens.
 
-<img src="photos/Information_1_exposition.jpg" alt="info 1" width="250"> <img src="photos/Information_2_exposition.jpg" alt="info 2" width="259"> <img src="photos/Informaton_3_exposition.jpg" alt="info 3" width="280">
+<img src="photos/Information_1_exposition.jpg" alt="info 1" width="250"> <img src="photos/Information_2_exposition.jpg" alt="info 2" width="259"> <img src="photos/Informaton_3_exposition.jpg" alt="info 3" width="300">
 > Les photos suivantes représentes les différents panneaux d'information sur le thème de l'exposition. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
