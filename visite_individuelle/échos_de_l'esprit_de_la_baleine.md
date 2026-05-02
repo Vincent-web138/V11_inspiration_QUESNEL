@@ -64,7 +64,7 @@ En observant attentivement l'installation et son fonctionnement, j'ai identifié
 * **Audio spatialisé :** Un système composé de **6 haut-parleurs** permettant au son de voyager tout autour du spectateur.
 * **Banc vibrant :** La composante technique majeure. Le banc contient des **caissons de basses fréquences (subwoofers)** dissimulés à l'intérieur. Un poteau central assure la gestion du câblage vers le plafond.
 
-<img src="photos/Écran_droit.jpg" alt="projection 1" width="250"> <img src="photos/Écran_gauche.jpg" alt="projection 2" width="250"> <img src="photos/Écran_milieu.jpg" alt="projection 3" width="250"> <img src="photos/Haut_parleur_droit.jpg" alt="son 1" width="50"> <img src="photos/Haut_parleur_gauche.jpg" alt="son 2" width="50">
+<img src="photos/Écran_droit.jpg" alt="projection 1" width="150"> <img src="photos/Écran_gauche.jpg" alt="projection 2" width="250"> <img src="photos/Écran_milieu.jpg" alt="projection 3" width="250"> <img src="photos/Haut_parleur_droit.jpg" alt="son 1" width="50"> <img src="photos/Haut_parleur_gauche.jpg" alt="son 2" width="50">
 > Les photos suivantes représentes tout les composants nécessaires à l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
