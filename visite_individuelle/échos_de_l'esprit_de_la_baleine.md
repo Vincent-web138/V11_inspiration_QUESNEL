@@ -76,7 +76,7 @@ Pour que cette installation fonctionne, plusieurs éléments de structure sont e
 * **Mobilier technique :** Le banc vibrant conçu sur mesure et des poufs pour le confort.
 * **Sécurité :** Une gestion invisible des câbles sous le plancher ou via le poteau central pour éviter les chutes dans le noir.
 
-<img src="photos/Projecteur_droit.jpg" alt="projecteur 1" width="399"> <img src="photos/Projecteur_gauche.jpg" alt="projecteur 2" width="399"> <img src="photos/Projecteur_milieu.jpg" alt="projecteur 3" width="399"> <img src="photos/Projecteur_lumière.jpg" alt="lumière" width="399"> <img src="photos/Espace_repos.jpg" alt="banc" width="399">
+<img src="photos/Projecteur_droit.jpg" alt="projecteur 1" width="300"> <img src="photos/Projecteur_gauche.jpg" alt="projecteur 2" width="300"> <img src="photos/Projecteur_milieu.jpg" alt="projecteur 3" width="300"> <img src="photos/Projecteur_lumière.jpg" alt="lumière" width="300"> <img src="photos/Espace_repos.jpg" alt="banc" width="300">
 > Les photos suivantes représentes tout les éléments nécessaires à la mise en exposition de l'oeuvre. Les photos ont été prises par moi (Vincent Quesnel)
 ---
 
