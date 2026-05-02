@@ -1,1 +1,1 @@
-
+Ce sous-dossier contient les images des schémas des différents projet (croquis) qui sont utilisé pour faire la fiche palmarès. Les images proviennent des github des différentes équipes, dans la section technique.
