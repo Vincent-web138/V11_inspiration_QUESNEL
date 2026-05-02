@@ -1,1 +1,1 @@
-Ce sous-dossier contient les photos/images de l'ensemble des autres projet pour le palmarès et 2 images en lien avec des composante technologique que je ne conaissait pas et qui est utilié dans l'un des projets.
+Ce sous-dossier contient les photos/images de l'ensemble des autres projet pour le palmarès et 2 images en lien avec des composante technologique que je ne conaissait pas et qui est utilié dans l'un des projets. Les 2 images ont été pris sur le site algotive.ai et banuba.com
