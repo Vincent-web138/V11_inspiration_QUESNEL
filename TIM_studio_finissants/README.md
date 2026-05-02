@@ -1,1 +1,1 @@
-Ce dossier contient 2 fiches de travail. Une pour la documentation complète de l'exposition et de l'oeuvre choisie et l'autre pour le palmarès des autres projet ainsi que des informations sur mon cheminement dans la formation en TIM.
+Ce dossier contient 2 fiches de travail. Une pour la documentation complète de l'exposition et de l'oeuvre choisie et l'autre pour le palmarès des autres projet ainsi que des informations sur mon cheminement dans la formation en TIM. Il contient également 3 dossier de photos
