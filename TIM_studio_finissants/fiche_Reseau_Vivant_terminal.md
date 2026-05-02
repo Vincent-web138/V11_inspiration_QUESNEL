@@ -51,6 +51,7 @@ L'organisation physique du grand studio a été optimisée pour favoriser le reg
 
 <img src="photos_oeuvre_terminal/Croquis_oeuvre.png" alt="présentation oeuvre" width="350">
 > Aménagement de l'espace avec éclairage tamisé pour maximiser la visibilité des projections colorées sur le sable. Photo pris par moi (Vincent Quesnel)
+
 ---
 
 ## Composantes et techniques
