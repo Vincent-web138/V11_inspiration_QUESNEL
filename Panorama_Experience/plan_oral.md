@@ -1,47 +1,40 @@
 # Plan de présentation orale : Échos de l'esprit de la baleine
 
 ## Introduction
-
-* **Objectif de la communication (Sujet posé) :** Présenter l'expérience immersive *Échos de l'esprit de la baleine*, réalisée par le studio **Panorama Expérience**, que j'ai visitée au centre **Panorama** à Montréal.
-* **Aspects abordés (Sujet divisé) :** 1. Présentation du centre Panorama et de sa mission.
-    2. Détails techniques du dispositif (écrans, système sonore et mobilier vibrant).
-    3. Récit de mon expérience sensorielle.
-    4. Analyse critique et pistes d'amélioration.
-    5. Liens avec mes autres découvertes de la session.
+* **Objectif (Sujet posé) :** Présenter l'oeuvre immersive *Échos de l'esprit de la baleine* (studio **Panorama Expérience**) visitée au centre **Panorama** à Montréal.
+* **Annonce (Sujet divisé) :** 1. Le lieu et sa mission.
+    2. Détails techniques (**6 haut-parleurs**, **banc vibrant**).
+    3. Expérience sensorielle et appréciation critique.
 
 ---
 
 ## Développement
 
 ### 1. Présentation du lieu visité
-* **Rôle du lieu :** Panorama est un centre de diffusion numérique et immersif. Selon les informations de leur site web, leur mission est de créer des ponts entre la technologie et la nature pour sensibiliser le public.
-* **Contenu général :** Le lieu propose des environnements contemplatifs à 360° utilisant des projections de haute qualité et du son spatialisé pour transporter les visiteurs dans des écosystèmes souvent inaccessibles.
+* **Mission du centre Panorama :** Utiliser la haute technologie pour sensibiliser le public à la nature par l'immersion.
+* **Type de contenu :** Environnements **contemplatifs de haute fidélité** visant à transformer la perception du spectateur.
 
-### 2. Présentation détaillée du dispositif multimédia
-* **Emplacement et accès :** Le dispositif se situe dans une salle obscure isolée par d'épais rideaux noirs qui assurent l'insonorisation et l'immersion visuelle. On y accède par un couloir de transition qui prépare le spectateur à la pénombre.
-* **Composantes et éléments techniques :**
-    * **Visuel :** Trois écrans géants de 30 pieds de large entourant l'espace.
-    * **Audio spatialisé :** Un système composé de **6 haut-parleurs** répartis dans la salle pour créer une véritable spatialisation sonore à 360°.
-    * **Le banc vibrant :** Élément central de l'installation. Il contient des **caissons de basses fréquences (subwoofers)** et un poteau central pour le câblage, permettant de ressentir physiquement les chants des baleines.
-    * **Ambiance :** Un éclairage bleu profond qui renforce l'immersion sous-marine.
+### 2. Présentation détaillée de l'oeuvre
+* **Espace et ambiance :** Salle isolée par d'épais **rideaux noirs** (acoustique) avec un éclairage d'ambiance **bleu** (immersion sous-marine).
+* **Dispositif technique :** * Visuel : 3 écrans géants de 30 pieds.
+    * Audio : Système de **6 haut-parleurs** pour une spatialisation à 360°.
+* **Le Banc vibrant :** Mobilier sur mesure intégrant des **caissons de basses (subwoofers)** et un **poteau central** pour camoufler le câblage.
 
 ### 3. Expérience vécue
-* **Parcours et durée :** L'expérience dure environ 15 à 20 minutes.
-* **Gestes à poser :** En tant que spectateur, le geste principal est de s'installer sur le banc vibrant ou sur les poufs au sol pour adopter une posture de contemplation.
-* **Sensations :** Le moment le plus marquant est la synchronisation entre l'image du cétacé et la vibration ressentie dans le banc, transformant une écoute sonore en une sensation tactile.
+* **Préparation :** Consultation des **panneaux didactiques** à l'entrée (vulgarisation scientifique sur les cétacés).
+* **Parcours :** Contemplation passive de **15 à 20 minutes** en position assise.
+* **Sensation physique :** Phénomène de **conduction osseuse** ; le chant des baleines est ressenti physiquement en synchronisation avec l'image.
 
 ### 4. Appréciation critique et justifications
-* **Ce qui m'a plu :** L'utilisation du mobilier comme interface sensorielle. Cela donne une dimension "physique" au numérique.
-* **Ce que je ferais autrement :** * **Signalétique :** J'indiquerais plus clairement le rôle technologique du banc à l'entrée, car sa fonction vibrante est l'atout majeur de l'œuvre.
-    * **Accessibilité :** J'ajouterais des repères visuels au sol (lumières LED bleues directionnelles) pour faciliter le déplacement vers le banc central dans l'obscurité totale.
+* **Points forts :** Équilibre entre l'**émotion sensorielle** (vibrations) et l'**aspect éducatif** (panneaux d'information).
+* **Améliorations suggérées :** * **Signalétique :** Mieux expliquer la fonction du banc vibrant.
+    * **Sécurité :** Ajouter des repères **LED au sol** pour circuler dans l'obscurité.
 
-### 5. Liens avec d'autres expériences de la session
-* **Ressemblance :** Comme pour le dispositif *Intelligente, la conduite* (Centre des sciences), l'immersion passe par une salle fermée et une ambiance lumineuse spécifique. 
-* **Différence :** Contrairement à *Explore* qui est très interactif et demande des manipulations constantes, *Échos de l'esprit de la baleine* privilégie l'immersion passive et l'émotion pure.
+### 5. Liens avec la session
+* **Comparaison :** Similaire à *Explore* (Centre des sciences) pour le gigantisme des écrans, mais approche **tactile et contemplative** plutôt qu'interactive.
 
 ---
 
 ## Conclusion
-
-* **Rappel des aspects :** Nous avons exploré comment Panorama combine projection monumentale, spatialisation sonore sur 6 points et mobilier vibrant pour créer une connexion avec le monde marin.
-* **Ouverture :** L'élément le plus inspirant que je retiens pour mes futurs projets est l'intégration de caissons de basses dans le mobilier pour rendre une expérience multimédia tangible et physique.
+* **Synthèse :** Une œuvre réussie qui rend le son **tangible** grâce à une intégration parfaite du mobilier et de la technologie.
+* **Ouverture :** Intérêt personnel pour l'utilisation des **basses fréquences** dans le mobilier pour mes futurs projets créatifs.
